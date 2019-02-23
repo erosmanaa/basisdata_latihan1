@@ -1,4 +1,4 @@
-# basisdata_latihan1
+#latihan1 Penggunaan Dasar Database MySql | Data Definition Language (DDL) Menggunakan CMD
 Penggunaan Dasar Database MySql | Data Definition Language (DDL) Menggunakan CMD
 
 -- 1.	Buat sebuah database dengan nama latihan01!
